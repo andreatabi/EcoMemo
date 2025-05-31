@@ -1,2 +1,2 @@
-# EcoMemo_HOMC
+# EcoMemo
 Ecological memory and higher-order Markov chains
